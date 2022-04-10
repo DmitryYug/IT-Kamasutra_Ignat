@@ -1,0 +1,29 @@
+.message {
+    display: flex;
+}
+
+.avatar img {
+    width: 60px;
+    background: gold;
+    border-radius: 200px;
+    border: 3px solid green;
+}
+
+.textArea {
+    margin-left: 10px;
+    background: green;
+    border-end-end-radius: 20px;
+    border-start-end-radius: 20px;
+    border-start-start-radius: 20px;
+
+}
+
+.time {
+    margin: 30px ;
+    color: red;
+}
+
+.name {
+    margin-left: 10px;
+    color: blue;
+}
