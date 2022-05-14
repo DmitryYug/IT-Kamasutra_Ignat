@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IT-Kamasutra_Ignat.git/static/css/main.857f5144.css",
+    "main.js": "/IT-Kamasutra_Ignat.git/static/js/main.034fc783.js",
+    "index.html": "/IT-Kamasutra_Ignat.git/index.html",
+    "main.857f5144.css.map": "/IT-Kamasutra_Ignat.git/static/css/main.857f5144.css.map",
+    "main.034fc783.js.map": "/IT-Kamasutra_Ignat.git/static/js/main.034fc783.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.857f5144.css",
+    "static/js/main.034fc783.js"
+  ]
+}
