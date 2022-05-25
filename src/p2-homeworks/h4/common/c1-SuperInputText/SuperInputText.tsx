@@ -1,5 +1,6 @@
 import React, {ChangeEvent, DetailedHTMLProps, InputHTMLAttributes, KeyboardEvent} from 'react'
 import s from './SuperInputText.module.css'
+import {TextField} from "@mui/material";
 
 // тип пропсов обычного инпута
 type DefaultInputPropsType = DetailedHTMLProps<InputHTMLAttributes<HTMLInputElement>, HTMLInputElement>
@@ -44,6 +45,19 @@ const SuperInputText: React.FC<SuperInputTextPropsType> = (
 
     return (
         <>
+            {/*Pure attempt to use Material UI*/}
+            {/*<TextField*/}
+            {/*    id="outlined-basic"*/}
+            {/*    label="type..."*/}
+            {/*    variant="outlined"*/}
+            {/*    type={'text'}*/}
+            {/*    onChange={onChangeCallback}*/}
+            {/*    onKeyPress={onKeyPressCallback}*/}
+            {/*    className={finalInputClassName}*/}
+
+            {/*    {...restProps} // отдаём инпуту остальные пропсы если они есть (value например там внутри)*/}
+            {/*/>*/}
+
             <input
                 type={'text'}
                 onChange={onChangeCallback}
