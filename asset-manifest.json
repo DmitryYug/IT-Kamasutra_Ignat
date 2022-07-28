@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/IT-Kamasutra_Ignat/static/css/main.857f5144.css",
-    "main.js": "/IT-Kamasutra_Ignat/static/js/main.952e803d.js",
+    "main.js": "/IT-Kamasutra_Ignat/static/js/main.0726d5d9.js",
     "index.html": "/IT-Kamasutra_Ignat/index.html",
     "main.857f5144.css.map": "/IT-Kamasutra_Ignat/static/css/main.857f5144.css.map",
-    "main.952e803d.js.map": "/IT-Kamasutra_Ignat/static/js/main.952e803d.js.map"
+    "main.0726d5d9.js.map": "/IT-Kamasutra_Ignat/static/js/main.0726d5d9.js.map"
   },
   "entrypoints": [
     "static/css/main.857f5144.css",
-    "static/js/main.952e803d.js"
+    "static/js/main.0726d5d9.js"
   ]
 }
